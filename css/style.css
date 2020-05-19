@@ -142,18 +142,14 @@ main {
   }
 
   table {
-      font-family: Arial;
       font-style: italic;
       font-size: 15px;
-      text-align: left;
       border-collapse: separate;
       border-spacing: 5px;
       background-color: rgba(27, 83, 29, 0.527);
-      color:black;
       border: 1px solid black;
       border-radius: 10px;
       margin-top: 27px;
-      width: 40%;
   }
 
   td {
